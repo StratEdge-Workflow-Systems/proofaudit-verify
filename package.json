@@ -1,0 +1,18 @@
+{
+  "name": "@stratedge/proofaudit-verify",
+  "version": "2.4.0",
+  "description": "Tamper-evident decision receipt canonicalization and offline SHA-256 verification utility for ProofAudit.ai.",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": ["proofaudit", "audit-trail", "decision-receipts", "compliance-evidence", "canonical-json"],
+  "homepage": "https://proofaudit.ai",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/StratEdge-Workflow-Systems/proofaudit-verify.git"
+  },
+  "author": "StratEdge Workflow Systems LLC <info@stratedgeworkflow.com> (https://www.stratedgeworkflow.com)",
+  "license": "MIT"
+}
